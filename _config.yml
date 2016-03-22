@@ -1,4 +1,4 @@
-name: Juliekremkus
+name: JK test
 favicon: null
 layout_spectrum: 0.0071
 typography_spectrum: 0.24139
@@ -22,7 +22,7 @@ color:
     - '#c3c1b4'
     - '#454648'
     - '#676556'
-  brandStrength: 0.1875
+  brandStrength: 1
   lightness: 0.6875
   saturation: 0.3125
   rhythmicContrast: 0.25
