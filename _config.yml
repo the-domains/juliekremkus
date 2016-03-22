@@ -1,0 +1,28 @@
+name: Juliekremkus
+favicon: null
+layout_spectrum: 0.20449731894768775
+typography_spectrum: 0.012149451998993754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.048576304921880364
+  lightness: 0.697469265665859
+  saturation: 0.2890924627427012
+  rhythmicContrast: 0.26388457603752613
+purpose: []
