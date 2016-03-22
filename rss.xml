@@ -4,8 +4,15 @@
         <description><![CDATA[Portfolio]]></description>
         <link>https://thegrid.ai/juliekremkus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 02:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 16:43:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/juliekremkus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SENNA]]></title>
+            <description><![CDATA[<article><h1>SENNA</h1><p>test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2e1e5cd0a764751ee66d7d84745635007b02bba.jpg"></article>]]></description>
+            <link>https://thegrid.ai/juliekremkus/3a4ee4e6-5f40-4627-8e5d-fbfa5c842d3f/index.html</link>
+            <guid isPermaLink="false">3a4ee4e6-5f40-4627-8e5d-fbfa5c842d3f</guid>
+            <pubDate>Tue, 22 Mar 2016 16:42:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ember Website]]></title>
             <description><![CDATA[<article><h1>ember Website</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaa72d1c93601fb4c8705965ca6e40e460bb23ac.jpg"></article>]]></description>
