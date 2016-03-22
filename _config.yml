@@ -1,6 +1,6 @@
 name: JK test
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74641
 typography_spectrum: 0.49657
 title: Portfolio
 cta:
@@ -23,7 +23,7 @@ color:
     - '#454648'
     - '#676556'
   brandStrength: 1
-  lightness: 0.6875
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
