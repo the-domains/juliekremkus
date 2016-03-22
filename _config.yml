@@ -2,6 +2,7 @@ name: Juliekremkus
 favicon: null
 layout_spectrum: 0.0071
 typography_spectrum: 0.24139
+title: test
 cta:
   domain: null
   bucket: null
